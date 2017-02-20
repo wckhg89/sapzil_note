@@ -14,5 +14,9 @@
 
 * remote 삭제 : git remote -b [remote 이름] (git remote -b origin)
 
-* remote 이름 변경 : git remote rename [old] [new] (git remote rename tmp origin)
+* remote 이름 변경 : git remote rename [old name] [new name] (git remote rename tmp origin)
 
+
+## push
+
+* push : git push [remote name] [branch name] (git push origin feature/zumgu)
